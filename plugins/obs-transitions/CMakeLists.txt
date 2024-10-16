@@ -10,6 +10,7 @@ target_sources(
     transition-cut.c
     transition-fade-to-color.c
     transition-fade.c
+    transition-doom.c
     transition-luma-wipe.c
     transition-slide.c
     transition-stinger.c
